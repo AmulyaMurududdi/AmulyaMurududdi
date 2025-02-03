@@ -5,11 +5,11 @@
 
 ## About Me
 
-I am a Computer Science graduate student at the University of North Texas, specializing in machine learning and data analysis. Apart from that I am a fun loving, knowledge seeking and adventurous person. 
+I am a Computer Science graduate student at the University of North Texas, specializing in machine learning and data analysis. I’m a fun-loving, adventurous, and knowledge-seeking individual.
 
-- 🔭 I’m currently working on innovative projects related machine learning, deep learning, NLP and big data.
-- 👯 I’m looking to collaborate on open-source projects and research in ML/AI.
-- 🤔 I’m looking for an opportunity to improve my skills in ML.
+- 🔭 I’m currently working on exciting projects in machine learning, deep learning, NLP, and data analysis, and constantly expanding my expertise in these fields.
+- 👯 I’m eager to collaborate on innovative open-source projects in ML/AI.
+- 🤔 I’m actively seeking full-time opportunities in machine learning and AI, where I can leverage my skills to solve complex problems and continue growing as a professional.
 - 💬 Ask me about machine learning, deep learning, NLP, data analysis, and big data technologies.
 - 📫 How to reach me: [Amulya.m232@gmail.com](Amulya.m232@gmail.com)
 - ⚡ Fun fact: I love travelling,hiking, and exploring new places.
@@ -31,7 +31,7 @@ I am a Computer Science graduate student at the University of North Texas, speci
 - Visualized insights using Pandas, Matplotlib and seaborn to drive data-driven decision-making
 
 ### Machine Learning 
-![Link](https://github.com/AmulyaMurududdi/Housing-Price-Prediction-using-Regression-Techniques)
+- [Housing Price Prediction using Regression Techniques](https://github.com/AmulyaMurududdi/Housing-Price-Prediction-using-Regression-Techniques)
 - Developed a predictive model for housing prices using regression techniques on the California housing dataset
 - Performed data exploration, cleaning, and analysis; created visualizations for insights
 - Used Different evaluation metrics to know the performance of the model.  
