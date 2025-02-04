@@ -26,7 +26,7 @@ I am a Computer Science graduate student at the University of North Texas, speci
 ## Projects
 
 ### Big Data & Data Analysis
--[Data Analysis using hadoop Hive and Pyspark](https://github.com/AmulyaMurududdi/Data-Analysis-on-Movies-dataset-using-Hadoop-Hive-and-Spark-)
+- [Data Analysis using hadoop Hive and Pyspark](https://github.com/AmulyaMurududdi/Data-Analysis-on-Movies-dataset-using-Hadoop-Hive-and-Spark-)
 - Cleaned and analyzed a dataset of 8,000 movie metadata records
 - Utilized Hadoop, Hive, and Spark for large-scale data processing
 - Visualized insights using Pandas, Matplotlib and seaborn to drive data-driven decision-making
